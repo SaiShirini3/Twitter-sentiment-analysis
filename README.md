@@ -20,9 +20,9 @@ Go, A., Bhayani, R. and Huang, L., 2009. Twitter sentiment classification using 
 
 
 ## Methodology
--eda of dataset:
--preprocessing methods used:
--model used:
+- eda of dataset:
+- preprocessing methods used:
+- model used:
 - training parameters:
 
 ## Results
