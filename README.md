@@ -17,3 +17,12 @@ For more information, refer to the paper Twitter Sentiment Classification with D
 
 ### Citation: 
 Go, A., Bhayani, R. and Huang, L., 2009. Twitter sentiment classification using distant supervision. CS224N Project Report, Stanford, 1(2009), p.12.
+
+
+## Methodology
+-eda of dataset:
+-preprocessing methods used:
+-model used:
+- training parameters:
+
+## Results
