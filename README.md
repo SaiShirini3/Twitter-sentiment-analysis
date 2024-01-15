@@ -13,9 +13,7 @@ It contains the following 6 fields:
 - user: the user that tweeted (robotickilldozr)
 - text: the text of the tweet (Lyx is cool)
 
-### Acknowledgements
-The official link regarding the dataset with resources about how it was generated is here
-The official paper detailing the approach is here
+For more information, refer to the paper Twitter Sentiment Classification with Distant Supervision [here](https://www-cs.stanford.edu/people/alecmgo/papers/TwitterDistantSupervision09.pdf)
 
 ### Citation: 
 Go, A., Bhayani, R. and Huang, L., 2009. Twitter sentiment classification using distant supervision. CS224N Project Report, Stanford, 1(2009), p.12.
